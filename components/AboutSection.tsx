@@ -37,7 +37,7 @@ const AboutSection = () => {
             <p>
               Oi sou o Bruno Seixas{" "}
               <span className="font-bold">{"altamente ambicioso"}</span>,
-              <span className="font-bold">{" Motivado"}</span>, e
+              <span className="font-bold">{" motivado"}</span>, e
               <span className="font-bold">{" criado como "}</span> software engineer
               em Salvador-Bahia.
             </p>
@@ -45,7 +45,7 @@ const AboutSection = () => {
             <p>
 
               Estou me formando na Universidade Salvador, em 2023
-              em bacharelado em Ciência da Computação e tem trabalhado na
+              em bacharelado em Ciência da Computação e tenho trabalhado na
               area desde então.
             </p>
             <br />

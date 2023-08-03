@@ -25,7 +25,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Software Engineer{" "}
             </span>
-           Bacharel em Ciência da computação focado em desenvolvimento Full-Stack, de Salvador-BA para o Mundo!
+           no 8° semestre de Bacharel em Ciência da computação focado em desenvolvimento Full-Stack, de Salvador-BA para o Mundo!
           </p>
           <Link
             to="projects"

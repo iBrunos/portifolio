@@ -44,8 +44,8 @@ const AboutSection = () => {
             <br />
             <p>
 
-              Me formei na Universidade Salvador, em 2023
-              com bacharelado em Ciência da Computação e tem trabalhado na
+              Estou me formando na Universidade Salvador, em 2023
+              em bacharelado em Ciência da Computação e tem trabalhado na
               area desde então.
             </p>
             <br />
